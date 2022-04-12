@@ -22,6 +22,7 @@ For this project, I wanted to train text to speech on my voice, so that I could 
     - [out](https://github.com/unl-ml-art/generative-audio-ReidDotO/tree/master/out)
 - Final YouTube Video - The text to speech is used at the very beginning and later in the video.
     - [The Problem with Shiny Hunting in Pokemon Legends: Arceus](https://www.youtube.com/watch?v=zgGw7GRMZfA)
+    - [A completely normal shiny reaction (Pokemon Legends: Arceus)](https://www.youtube.com/watch?v=I2XqqdjZqHg)
 
 ## Technical Notes
 
